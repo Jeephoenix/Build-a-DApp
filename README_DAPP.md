@@ -105,7 +105,7 @@ git --version      # any recent version
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/crypto-safety.git
+git clone https://github.com/Jeephoenix/crypto-safety.git
 cd crypto-safety
 ```
 
